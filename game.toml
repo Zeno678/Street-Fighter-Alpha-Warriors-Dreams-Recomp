@@ -1,0 +1,55 @@
+# Autofilled by tools/new_project_layout/probe_disc.py from your legal dump.
+# Review before shipping. Runtime quirks / overlay seeds still need hand work.
+
+[game]
+name = "Street Fighter Alpha - Warriors' Dreams"
+id = "SLES-00199"
+players = 2
+exe = "disc/SLES_001.99"
+disc = "/home/dodo/Téléchargements/psxrecomp-src-nightly-20260920-c68bf6e085/Street Fighter Alpha - Warriors' Dreams (Europe)/Street Fighter Alpha - Warriors' Dreams (Europe).cue"
+load_address = "0x80128000"
+entry_pc = "0x80128B1C"
+text_size = "0x000B0800"
+stack_base = "0x801FFFF0"
+
+# Digests are for data Track 01 (first BINARY FILE / TRACK 01).
+[prepare_disc]
+out_dir = "disc"
+bin_name = "Street Fighter Alpha - Warriors' Dreams (Europe) (Track 01).bin"
+cue_name = "Street Fighter Alpha - Warriors' Dreams (Europe).cue"
+boot_exe = "SLES_001.99"
+known_sizes = [32248272]
+known_md5 = [
+  "2f96c2c59a016fb211cb0442be283cb6",
+]
+known_sha1 = [
+  "a63d7bed819c01196b99c973a53b899c84295dec",
+]
+known_crc32 = [
+  "cd70d8c2",
+]
+
+[recompiler]
+seeds = "seeds/ghidra_funcs.txt"
+out_dir = "generated"
+strict = true
+
+[runtime]
+window_title = "Street Fighter Alpha - Warriors' Dreams Recompiled"
+memcard_dir = "saves"
+overlay_cache = true
+
+[video]
+renderer = "opengl"
+aspect_ratio = "4:3"
+
+[controller]
+default_mode = "digital"
+
+# Online mount gate: digests + track count + optional TOC fingerprint
+# (see docs/NETPLAY.md).
+multitap_analog = true
+[netplay]
+require_cue = true
+required_tracks = 51
+required_disc_fp = "be93269b4eaab2cc305ebd8d96bace6e5167500f4ced3524d750cb187b3e3286"

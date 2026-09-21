@@ -1,0 +1,4 @@
+psx.enhancement.cd-speed
+psx.enhancement.fast-loading
+psx.enhancement.pgxp
+psx.presentation.bezel
