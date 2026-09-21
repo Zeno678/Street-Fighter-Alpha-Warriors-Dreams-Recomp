@@ -1,0 +1,14 @@
+# Target labels
+ psx_libchdr-populate
+# Source files and their labels
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/psx_libchdr-subbuild/CMakeFiles/psx_libchdr-populate
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/psx_libchdr-subbuild/CMakeFiles/psx_libchdr-populate.rule
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/psx_libchdr-subbuild/CMakeFiles/psx_libchdr-populate-complete.rule
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/psx_libchdr-subbuild/psx_libchdr-populate-prefix/src/psx_libchdr-populate-stamp/psx_libchdr-populate-build.rule
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/psx_libchdr-subbuild/psx_libchdr-populate-prefix/src/psx_libchdr-populate-stamp/psx_libchdr-populate-configure.rule
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/psx_libchdr-subbuild/psx_libchdr-populate-prefix/src/psx_libchdr-populate-stamp/psx_libchdr-populate-download.rule
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/psx_libchdr-subbuild/psx_libchdr-populate-prefix/src/psx_libchdr-populate-stamp/psx_libchdr-populate-install.rule
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/psx_libchdr-subbuild/psx_libchdr-populate-prefix/src/psx_libchdr-populate-stamp/psx_libchdr-populate-mkdir.rule
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/psx_libchdr-subbuild/psx_libchdr-populate-prefix/src/psx_libchdr-populate-stamp/psx_libchdr-populate-patch.rule
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/psx_libchdr-subbuild/psx_libchdr-populate-prefix/src/psx_libchdr-populate-stamp/psx_libchdr-populate-test.rule
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/psx_libchdr-subbuild/psx_libchdr-populate-prefix/src/psx_libchdr-populate-stamp/psx_libchdr-populate-update.rule
