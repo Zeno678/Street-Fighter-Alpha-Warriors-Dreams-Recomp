@@ -1,0 +1,14 @@
+# Target labels
+ libjuice-populate
+# Source files and their labels
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/CMakeFiles/libjuice-populate
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/CMakeFiles/libjuice-populate.rule
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/CMakeFiles/libjuice-populate-complete.rule
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/libjuice-populate-prefix/src/libjuice-populate-stamp/libjuice-populate-build.rule
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/libjuice-populate-prefix/src/libjuice-populate-stamp/libjuice-populate-configure.rule
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/libjuice-populate-prefix/src/libjuice-populate-stamp/libjuice-populate-download.rule
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/libjuice-populate-prefix/src/libjuice-populate-stamp/libjuice-populate-install.rule
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/libjuice-populate-prefix/src/libjuice-populate-stamp/libjuice-populate-mkdir.rule
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/libjuice-populate-prefix/src/libjuice-populate-stamp/libjuice-populate-patch.rule
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/libjuice-populate-prefix/src/libjuice-populate-stamp/libjuice-populate-test.rule
+/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/libjuice-populate-prefix/src/libjuice-populate-stamp/libjuice-populate-update.rule

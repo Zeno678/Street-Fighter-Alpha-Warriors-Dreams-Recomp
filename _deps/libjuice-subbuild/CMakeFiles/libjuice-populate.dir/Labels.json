@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/CMakeFiles/libjuice-populate"
+		},
+		{
+			"file" : "/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/CMakeFiles/libjuice-populate.rule"
+		},
+		{
+			"file" : "/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/CMakeFiles/libjuice-populate-complete.rule"
+		},
+		{
+			"file" : "/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/libjuice-populate-prefix/src/libjuice-populate-stamp/libjuice-populate-build.rule"
+		},
+		{
+			"file" : "/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/libjuice-populate-prefix/src/libjuice-populate-stamp/libjuice-populate-configure.rule"
+		},
+		{
+			"file" : "/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/libjuice-populate-prefix/src/libjuice-populate-stamp/libjuice-populate-download.rule"
+		},
+		{
+			"file" : "/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/libjuice-populate-prefix/src/libjuice-populate-stamp/libjuice-populate-install.rule"
+		},
+		{
+			"file" : "/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/libjuice-populate-prefix/src/libjuice-populate-stamp/libjuice-populate-mkdir.rule"
+		},
+		{
+			"file" : "/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/libjuice-populate-prefix/src/libjuice-populate-stamp/libjuice-populate-patch.rule"
+		},
+		{
+			"file" : "/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/libjuice-populate-prefix/src/libjuice-populate-stamp/libjuice-populate-test.rule"
+		},
+		{
+			"file" : "/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/libjuice-populate-prefix/src/libjuice-populate-stamp/libjuice-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libjuice-populate"
+		],
+		"name" : "libjuice-populate"
+	}
+}

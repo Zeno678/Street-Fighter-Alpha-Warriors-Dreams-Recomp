@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/var/home/dodo/.local/share/retcomm/toolchains/cmake-clang-v1/1.0.14/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/libjuice-populate-prefix/src/libjuice-populate-stamp/download-libjuice-populate.cmake;COMMAND;/var/home/dodo/.local/share/retcomm/toolchains/cmake-clang-v1/1.0.14/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/libjuice-populate-prefix/src/libjuice-populate-stamp/verify-libjuice-populate.cmake;COMMAND;/var/home/dodo/.local/share/retcomm/toolchains/cmake-clang-v1/1.0.14/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-subbuild/libjuice-populate-prefix/src/libjuice-populate-stamp/extract-libjuice-populate.cmake
+source_dir=/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps/libjuice-src
+work_dir=/var/home/dodo/Street-Fighter-Alpha-Warriors-Dreams-Recomp/build-release/_deps
+url(s)=https://github.com/paullouisageneau/libjuice/archive/refs/tags/v1.7.2.tar.gz
+hash=SHA256=75159867c4a5a689a6559e11aa0d30c9eba12ce73a4ae3d898b521467e1f635d
+      no_extract=
+

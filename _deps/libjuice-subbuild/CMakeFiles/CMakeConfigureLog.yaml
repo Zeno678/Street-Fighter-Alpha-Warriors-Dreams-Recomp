@@ -1,0 +1,11 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/var/home/dodo/.local/share/retcomm/toolchains/cmake-clang-v1/1.0.14/share/cmake-3.31/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:16 (project)"
+    message: |
+      The system is: Linux - 7.2.4-ogc3.1.fc44.x86_64 - x86_64
+...
